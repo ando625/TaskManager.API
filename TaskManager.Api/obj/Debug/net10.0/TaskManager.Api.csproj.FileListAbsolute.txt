@@ -149,3 +149,4 @@
 /Users/za/PF/TaskManagerApp/TaskManager.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/za/PF/TaskManagerApp/TaskManager.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/za/PF/TaskManagerApp/TaskManager.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/za/PF/TaskManagerApp/TaskManager.Api/obj/Debug/net10.0/TaskManager.Api.sourcelink.json
